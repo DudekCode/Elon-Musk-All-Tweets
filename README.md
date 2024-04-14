@@ -1,16 +1,19 @@
 # Elon-Musk-All-Tweets
-Comprehensive archive of all tweets by Elon Musk from the inception of his Twitter account (2010) to the end of 2022.
+Comprehensive archive of all tweets by Elon Musk from the inception of his Twitter account (2010) to the end of 2022. 
+The tweets were used in my master's thesis.
 
 **The data was created using snscrape.modules.twitter on April 1, 2023.**
 
 **Currently, due to Twitter's privacy policy, it is not possible to update the database.**
+
+
 
 ## Description: 
 
 "Elon Musk All Tweets" repository is a comprehensive collection of Elon Musk's Twitter activity. This project is designed to serve as a valuable resource for researchers, analysts, and enthusiasts interested in understanding the social media impact of one of the most influential figures in technology and business.
 
 Complete Dataset: Contains all tweets posted by Elon Musk from the beginning of his Twitter account (2010) until December 31, 2022.
-Organized Format: Tweets are meticulously organized for ease of access and analysis.
+Organized Format: Files are organized in Excel and CSV format.
 Historical Insight: Offers a chronological view of Elon Musk's thoughts, announcements, and interactions on Twitter.
 
 **Possible Uses:**
