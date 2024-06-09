@@ -16,6 +16,13 @@ Complete Dataset: Contains all tweets posted by Elon Musk from the beginning of 
 Organized Format: Files are organized in Excel and CSV format.
 Historical Insight: Offers a chronological view of Elon Musk's thoughts, announcements, and interactions on Twitter.
 
+
+<p align="center">
+  <img src="https://github.com/DudekCode/Elon-Musk-All-Tweets/assets/111693910/428e55db-987d-4b6e-b80c-43900f69550f" alt="elon musk tweets">
+</p>
+
+
+
 **Possible Uses:**
 
 - Event Study: Helpful in correlating Musk's tweets with events in financial markets.
